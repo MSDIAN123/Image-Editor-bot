@@ -63,4 +63,4 @@ Wallpaper Genarated Successfully✅
     if os.path.exists(fname):
             os.remove(fname)
  except Exception as e:
-    await client.send_message(message.chat.id, f'An error occurred! Report this @slbotzone, {e}')
+    await client.send_message(message.chat.id, f'An error occurred! Report this @imRishmiika, {e}')
