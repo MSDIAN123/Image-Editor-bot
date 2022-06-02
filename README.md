@@ -1,5 +1,5 @@
-# Telegraph-Bot
-This Bot Can Give Telegraph Link For Your Photos.  You Can Enjoy This Bot.
+# Image-Editor-bot
+This Bot Can Edit Your Photos.  You Can Enjoy This Bot.
 
 ### 🖇 Prerequisites
 
@@ -11,7 +11,7 @@ This Bot Can Give Telegraph Link For Your Photos.  You Can Enjoy This Bot.
 - [Pyrogram String Session](no starting sission)
 
 <h2 align="center">  🚀 Heroku Deployment </h2>
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/RishBropromax/Telegraph-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/RishBropromax/Image-Editor-bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
 
  ## 🏷 Support
 
