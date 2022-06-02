@@ -1,15 +1,15 @@
 {
-    "name": "image bot",
+    "name": "Image Editor Bot",
     "description": "An advance song bot with more features ",
-    "logo": "https://telegra.ph/file/04065cd11638d54da9e13.jpg",
+    "logo": "https://telegra.ph/file/ee326cb991140237b17c8.png",
     "keywords": [
         "SongBot",
         "Song Downloader",
         "szbot"
     ],
-    "website": "http://szbots.ml",
-    "repository": "https://github.com/wisul/image-tool",
-    "success_url": "https://t.me/mwtgbots",
+   
+    "repository": "https://github.com/RishBropromax/Image-Editor-bot",
+    "success_url": "https://t.me/Emo_Logo_Bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
@@ -24,11 +24,11 @@
             "value": ""
         },
         "BOT_USERNAME": {
-            "description": "Your bot username without @",
+            "description": "Your bot username without @  ex :- @ImRishmika",
             "value": ""
         },
         "BOT_OWNER": {
-            "description": "Your telegram id",
+            "description": "Your Telegram id",
             "value": ""
         }
     },
