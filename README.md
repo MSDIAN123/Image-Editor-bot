@@ -1,6 +1,6 @@
 # Image-Editor-bot
-This Bot Can Edit Your Photos.  You Can Enjoy This Bot.
-https://telegra.ph/file/ee326cb991140237b17c8.png
+This Bot Can Edit Your Photos.  You Can Enjoy This Bot. 
+
 
 <p align="center"><a href="https://github.com/RishBropromax/Image-Editor-bot"><img src="https://telegra.ph/file/ee326cb991140237b17c8.png"</a></p>
 
@@ -23,4 +23,6 @@ Reach out to the maintainer at one of the following places:
 - Contact options listed on [this GitHub profile](https://github.com/RishBropromax))
 - Contact another options listed on [this GitHub profile](https://github.com/ImRishmika))
 - Contact another options listed on [Telegram](https://t.me/ImRishmika))
+-Subscribe My Youtube Channel [Youtube](https://www.youtube.com/channel/UCTIprdrvIiMjFdFwJgnmTUg)
 
+ <h2>Thanks for using my repo. Send me the faults and shortcomings of this repo via telegram. Or add it to my support group👊👊
