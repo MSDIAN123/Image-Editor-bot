@@ -2,7 +2,7 @@
 This Bot Can Edit Your Photos.  You Can Enjoy This Bot. 
 
 
-<p align="center"><a href="https://github.com/RishBropromax/Image-Editor-bot"><img src="https://telegra.ph/file/ee326cb991140237b17c8.png"</a></p>
+<p align="center"><a href="https://github.com/RishBropromax/Image-Editor-bot"><img src="https://telegra.ph/file/bcb60c978018eba6a060b.png"</a></p>
 
 ### 🖇 Prerequisites
 
