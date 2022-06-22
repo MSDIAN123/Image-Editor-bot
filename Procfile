@@ -1,1 +1,1 @@
-worker: python3 -m szbot
+worker: python3 __main__.py
